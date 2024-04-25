@@ -1,0 +1,4 @@
+1. Make sure python is installed.
+2. run the following commands in terminal:
+	a. pip install -r requirements.txt
+	b. streamlit run dashboard.py
